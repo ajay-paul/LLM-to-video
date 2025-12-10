@@ -10,11 +10,6 @@ https://github.com/user-attachments/assets/2f9e6c09-0d78-4d81-855f-141745ebf254
 
 
 
-
-https://github.com/user-attachments/assets/0615aaaa-4f30-4545-a059-4b543b627ebb
-
-
-
 🧠 Single-LLM Pipeline: Efficient and cost-effective architecture for generating educational video content.
 
 🎥 Video Explanation Engine: Automatically produces topic-focused videos expanding on user queries with high speed and less computational resources.
