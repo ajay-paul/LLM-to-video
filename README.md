@@ -2,8 +2,12 @@
 An LLM-driven system that generates video explanations for user queries, focusing on STEM subjects. Unlike traditional text-to-video systems that rely on heavy visual generation pipelines, our text-based architecture produces long, concept-rich 'videos' at a fraction of the time and cost. This enables deep, high-quality STEM learning on demand, making complex topics accessible to anyone, anywhere, like having a personal tutor on demand.
 
 
+https://github.com/user-attachments/assets/2f9e6c09-0d78-4d81-855f-141745ebf254
 
-https://github.com/user-attachments/assets/d66df42b-153a-4611-adfc-0be1ceb385c5
+
+
+
+
 
 
 
