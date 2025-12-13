@@ -18,4 +18,4 @@ https://github.com/user-attachments/assets/2f9e6c09-0d78-4d81-855f-141745ebf254
 
 🔍 RAG Integration: Uses Retrieval-Augmented Generation for accurate, context-aware responses.
 
-🔧 Fine-Tuned Model: Optimized for STEM topics and clear pedagogical explanations.
+🔧 Fine-Tuned Model: Optimized for STEM topics and clear easy explanations.
