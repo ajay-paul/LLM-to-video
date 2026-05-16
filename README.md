@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/2f9e6c09-0d78-4d81-855f-141745ebf254
 
 🔧 Fine-Tuned Model: Optimized for STEM topics and clear easy explanations.
 
-## Promt: Why does the area of a circle become πr² ?
+## Prompt: Why does the area of a circle become πr² ?
 
 
 https://github.com/user-attachments/assets/383b8b89-c0d5-403c-ad43-42e043397fa2
